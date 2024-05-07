@@ -1,0 +1,14 @@
+<omobility-stats-response xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-omobility-stats/tree/stable-v1">
+    <academic-year-stats>
+        <receiving-academic-year-id>2021/2022</receiving-academic-year-id>
+        <omobility-total>109</omobility-total>
+        <omobility-live>20</omobility-live>
+        <omobility-recognized>80</omobility-recognized>
+    </academic-year-stats>
+    <academic-year-stats>
+        <receiving-academic-year-id>2022/2023</receiving-academic-year-id>
+        <omobility-total>77</omobility-total>
+        <omobility-live>15</omobility-live>
+        <omobility-recognized>60</omobility-recognized>
+    </academic-year-stats>
+</omobility-stats-response>
