@@ -10,6 +10,17 @@ Summary
 
 This API allows the client to get the statistics describing outgoing mobilities from the sending HEI.
 
+If HEI provides any API from the following group:
+* Outgoing Mobilities
+* Outgoing Mobilities CNR
+* Outgoing Mobilities Stats
+* Incoming Mobilities
+* Incoming Mobilities CNR
+* Incoming Mobilities Stats
+
+it must provide all APIs from this group.
+
+
 Request method
 --------------
 
